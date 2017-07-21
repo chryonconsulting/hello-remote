@@ -1,1 +1,2 @@
-Here is some text to show an updated file, without local backup
+Here is some text to show an updated file, with local backup
+
